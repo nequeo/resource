@@ -1,4 +1,4 @@
 language: csharp
 solution: Nequeo.Resource.sln
 script:
- - xbuild /p:Configuration=Release /nequeo/base/blob/master/NequeoEx/NequeoEx.sln
+ - xbuild /p:Configuration=Release ../base/blob/master/NequeoEx/NequeoEx.sln
