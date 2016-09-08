@@ -1,4 +1,4 @@
 language: csharp
 solution: Nequeo.Resource.sln
-script:
- - xbuild /p:Configuration=Release ../base/NequeoEx/NequeoEx.sln
+install:
+ - nuget Install-Package NequeoBase
