@@ -1,4 +1,2 @@
 language: csharp
 solution: Nequeo.Resource.sln
-install:
- - nuget Install-Package NequeoBase
