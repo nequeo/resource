@@ -11,9 +11,6 @@ import { WebRtc } from '../mod/webrtc.mjs';
  * @param {object}    accessOptions  the access options.
  */
 export function initialiseApplication(callClient: CallClient, webRtc: WebRtc, accessOptions: any): void {
-
-    // create this local contact.
-    let contact: ContactPeer = webRtc.webrtc.createContact(uniqueID, applicationID);
 }
 
 /**
