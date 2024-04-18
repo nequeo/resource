@@ -4,6 +4,6 @@ This contians a complete implementation of a client WebRTC.
 
 TypeScript, Javascript
 
-[https://aws.dznequeo.net/awsapi/site/webrtc](WebRTC P2P (Mesh))
+[WebRTC P2P (Mesh)](https://aws.dznequeo.net/awsapi/site/webrtc)
 
-[https://aws.dznequeo.net/awsapi/site/webrtc/cloudflare](WebRTC Cloudflare Calls SFU)
+[WebRTC Cloudflare Calls SFU](https://aws.dznequeo.net/awsapi/site/webrtc/cloudflare)
